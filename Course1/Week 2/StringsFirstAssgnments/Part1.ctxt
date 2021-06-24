@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\r\n\ Part\ 1\ of\ the\ exercise\ of\ Week\ 2\ of\ Coursera's\ Java\ Programming\ course\r\n\ \r\n\ @author\ Pablo\ Boullosa\r\n\ @version\ April\ 2021\r\n
+comment1.params=g
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
